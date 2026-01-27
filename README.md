@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0120-triangle) |
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0790-domino-and-tromino-tiling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -102,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
