@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Math
+|  |
+| ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->
