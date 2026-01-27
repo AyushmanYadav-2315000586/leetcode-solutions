@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0120-triangle) |
+| [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3516-find-closest-person](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
