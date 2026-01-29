@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0078-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0078-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Prefix Sum
 |  |
