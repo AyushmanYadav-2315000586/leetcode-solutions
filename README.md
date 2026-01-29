@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0790-domino-and-tromino-tiling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Sliding Window
 |  |
