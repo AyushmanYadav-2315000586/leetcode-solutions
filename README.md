@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
