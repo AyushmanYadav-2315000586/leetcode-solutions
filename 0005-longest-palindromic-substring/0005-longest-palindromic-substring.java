@@ -1,9 +1,9 @@
 class Solution {
+    int[][]dp=new int [1001][1001];
     public String longestPalindrome(String s) {
         int n=s.length();
         int max=0;
         int start=0;
-        int[][]dp=new int [n+1][n+1];
         for(int i=0; i<n+1; i++){
             Arrays.fill(dp[i],-1);
         }
