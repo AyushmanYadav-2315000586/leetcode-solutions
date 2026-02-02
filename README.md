@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [1672-richest-customer-wealth](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1672-richest-customer-wealth](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
