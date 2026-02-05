@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3637-trionic-array-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3640-trionic-array-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3379-transformed-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Memoization
 |  |
