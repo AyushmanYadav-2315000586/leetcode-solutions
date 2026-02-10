@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1672-richest-customer-wealth](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2404-most-frequent-even-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0443-string-compression) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Simulation
 |  |
 | ------- |
