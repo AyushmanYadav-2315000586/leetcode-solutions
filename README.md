@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3713-longest-balanced-substring-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3713-longest-balanced-substring-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
 | [2404-most-frequent-even-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3713-longest-balanced-substring-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Depth-First Search
 |  |
 | ------- |
