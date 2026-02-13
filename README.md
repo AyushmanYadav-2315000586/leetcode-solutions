@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0067-add-binary) |
 | [0443-string-compression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0078-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Prefix Sum
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
