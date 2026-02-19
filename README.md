@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0696-count-binary-substrings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
