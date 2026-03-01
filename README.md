@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1382-balance-a-binary-search-tree](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1416-restore-the-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
