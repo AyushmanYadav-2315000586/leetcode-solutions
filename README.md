@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -364,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
