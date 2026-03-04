@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
