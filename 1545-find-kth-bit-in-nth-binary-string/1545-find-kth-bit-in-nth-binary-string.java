@@ -10,7 +10,7 @@ class Solution {
             return findKthBit(n-1,k);
         }
         else{
-            char ch= findKthBit(n-1,len-k+1);
+            char ch= findKthBit(n-1,len-(k-1));
             return ch=='0'?'1':'0';
         }
     }
