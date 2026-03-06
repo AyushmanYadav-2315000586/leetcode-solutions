@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
