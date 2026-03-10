@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0065-valid-number](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
