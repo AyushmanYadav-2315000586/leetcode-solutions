@@ -7,28 +7,25 @@ class Solution {
                 Arrays.fill(dp[i][j],-1);
             }
         }
-        int swz=solve(zero,one,0,limit,dp);
-        int swo=solve(zero,one,1,limit,dp);
-        return (swz+swo)%mod;
-    }
-    int solve(int zero, int one, int lastOne,int limit, int dp[][][]){
-        if(zero==0 && one==0){
-            return 1;
-        }
-        if(dp[zero][one][lastOne]!=-1){
-            return dp[zero][one][lastOne];
-        }
-        int res=0;
-        if(lastOne==1){
-            for(int len=1; len<=Math.min(zero,limit); len++){
-                res=(res+solve(zero-len,one,0,limit,dp))%mod;
+        dp[0][0][0]=1;
+        dp[0][0][1]=1;
+        
+        for(int i=0; i<=one; i++){
+            for(int j=0; j<=zero; j++){
+                if(i==0 && j==0) continue;
+                int res=0;
+                for(int len=1; len<=Math.min(j,limit); len++){
+                    res=(res+dp[i][j-len][0])%mod;
+                }
+                dp[i][j][1]=res;
+                res=0;
+                for(int len=1; len<=Math.min(i,limit); len++){
+                    res=(res+dp[i-len][j][1])%mod;
+                }
+                dp[i][j][0]=res;
             }
         }
-        else{
-            for(int len=1; len<=Math.min(one,limit); len++){
-                res=(res+solve(zero,one-len,1,limit,dp))%mod;
-            }
-        }
-        return dp[zero][one][lastOne]=res;
+
+        return (dp[one][zero][1]+dp[one][zero][0])%mod;
     }
 }
