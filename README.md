@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2404-most-frequent-even-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Backtracking
 |  |
@@ -424,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
