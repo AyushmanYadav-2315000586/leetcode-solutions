@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
