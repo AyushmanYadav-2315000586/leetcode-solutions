@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
