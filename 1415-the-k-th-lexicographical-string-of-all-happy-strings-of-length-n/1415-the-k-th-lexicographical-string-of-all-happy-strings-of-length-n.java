@@ -1,16 +1,17 @@
 class Solution {
     public String getHappyString(int n, int k) {
         StringBuilder curr=new StringBuilder();
-        List<String> res= new ArrayList<>();
-        solve(n,curr,res);
-        if(res.size()<k){
-            return "";
-        }
-        return res.get(k-1);
+        String []res={""};
+        int cnt[]= {0};
+        solve(n,curr,cnt,k,res);
+        return res[0];
     }
-    void solve(int n, StringBuilder curr, List<String> res){
+    void solve(int n, StringBuilder curr,int []cnt, int k, String[] res){
         if(curr.length()==n){
-            res.add(curr.toString());
+            cnt[0]++;
+            if(cnt[0]==k){
+                res[0]=curr.toString();
+            }
             return;
         }
 
@@ -20,7 +21,8 @@ class Solution {
             }
 
             curr.append(ch);
-            solve(n,curr,res);
+            solve(n,curr,cnt, k,res);
+            if(!res[0].isEmpty()) return;
             curr.deleteCharAt(curr.length()-1);
         }
     }
