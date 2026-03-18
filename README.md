@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
