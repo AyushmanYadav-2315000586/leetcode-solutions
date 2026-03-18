@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
