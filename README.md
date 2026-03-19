@@ -507,12 +507,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
