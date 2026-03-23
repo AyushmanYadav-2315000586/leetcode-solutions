@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0443-string-compression) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
