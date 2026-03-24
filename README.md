@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -356,12 +359,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -477,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -487,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
