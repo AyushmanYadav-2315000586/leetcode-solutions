@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
