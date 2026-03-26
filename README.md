@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0371-sum-of-two-integers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
