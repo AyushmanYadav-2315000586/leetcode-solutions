@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2573-find-the-string-with-lcp](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
