@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0796-rotate-string) |
