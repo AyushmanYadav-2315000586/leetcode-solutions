@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1929-concatenation-of-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2679-sum-in-a-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2751-robot-collisions) |
