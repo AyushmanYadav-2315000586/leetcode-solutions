@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2573-find-the-string-with-lcp](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2679-sum-in-a-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2751-robot-collisions) |
