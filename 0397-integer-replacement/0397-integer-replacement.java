@@ -1,5 +1,6 @@
 class Solution {
     int ans=0;
+    Map<Long,Integer> map= new HashMap<>();
     public int integerReplacement(int n) {
         return solve((long)n);
     }
@@ -8,7 +9,9 @@ class Solution {
         if(n==1){
             return 0;
         }
-
+        if(map.containsKey(n)){
+            return map.get(n);
+        }
         if(n%2==0){
             ans=1+solve(n/2);
         }
@@ -17,7 +20,7 @@ class Solution {
             int plus=solve(n+1);
             ans=1+Math.min(minus,plus);
         }
-
+        map.put(n,ans);
         return ans;
     }
 }
