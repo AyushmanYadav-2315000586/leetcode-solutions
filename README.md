@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0817-linked-list-components](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0817-linked-list-components) |
+| [0874-walking-robot-simulation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
