@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0397-integer-replacement](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Combinatorics
 |  |
 | ------- |
