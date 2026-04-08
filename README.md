@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2751-robot-collisions) |
