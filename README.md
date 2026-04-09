@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0307-range-sum-query-mutable](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -694,9 +697,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [2069-walking-robot-simulation-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
