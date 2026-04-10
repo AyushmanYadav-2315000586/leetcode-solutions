@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0636-exclusive-time-of-functions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0636-exclusive-time-of-functions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0844-backspace-string-compare](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
