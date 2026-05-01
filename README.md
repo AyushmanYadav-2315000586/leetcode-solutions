@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0396-rotate-function](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
