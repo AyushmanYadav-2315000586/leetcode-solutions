@@ -1,6 +1,9 @@
 class Solution {
+    int[]dp;
     public int rotatedDigits(int n) {
         int cnt=0;
+        dp=new int[n+1];
+        Arrays.fill(dp,-1);
         for(int i=1; i<=n; i++){
             if(isGood(i)==1){
                 cnt++;
@@ -9,6 +12,9 @@ class Solution {
         return cnt;    
     }
     int isGood(int num){
+        if(dp[num]!=-1){
+            return dp[num];
+        }
         if(num==0){
             return 0;
         }
@@ -22,16 +28,16 @@ class Solution {
             d_c=1;
         }
         else{
-            return 2;
+            return dp[num]=2;
         }
         if(r==2){
-            return 2;
+            return dp[num]=2;
         }
         if(r==0 && d_c==0){
-            return 0;
+            return dp[num]=0;
         }
 
-        return 1;
+        return dp[num]=1;
     }
 
 }
