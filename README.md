@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
