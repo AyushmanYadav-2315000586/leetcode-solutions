@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2404-most-frequent-even-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2679-sum-in-a-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
