@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
