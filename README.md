@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2404-most-frequent-even-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Monotonic Stack
 |  |
 | ------- |
