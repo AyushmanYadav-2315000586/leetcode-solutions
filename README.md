@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1254-number-of-closed-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0968-binary-tree-cameras](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2573-find-the-string-with-lcp](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
