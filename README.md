@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1390-four-divisors) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1631-path-with-minimum-effort](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
