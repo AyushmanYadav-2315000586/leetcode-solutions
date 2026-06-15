@@ -32,11 +32,15 @@ class Solution {
             return head;
         }
 
-        ListNode temp= rev(head.next);
-        ListNode front=head.next;
-        front.next=head;
-        head.next=null;
-        return temp;
+        ListNode prev=null;
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode nextTemp=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=nextTemp;
+        }
+        return prev;
     }
 }
 
