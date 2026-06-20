@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
