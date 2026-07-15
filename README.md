@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3516-find-closest-person](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Breadth-First Search
@@ -864,4 +865,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
