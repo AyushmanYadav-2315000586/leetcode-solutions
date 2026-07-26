@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3516-find-closest-person](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
