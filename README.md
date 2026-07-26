@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
