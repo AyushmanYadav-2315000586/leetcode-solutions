@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3477-fruits-into-baskets-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3488-closest-equal-element-queries](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Prefix Sum
 |  |
 | ------- |
