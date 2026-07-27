@@ -1,27 +1,26 @@
 class Solution {
+    int dp[][];
     public int minDistance(String word1, String word2) {
-
-        int [][]dp= new int [word1.length()+1][word2.length()+1];
-        for(int i=0; i<word1.length()+1; i++){
-            Arrays.fill(dp[i],-1);
+        dp= new int [word1.length()+1][word2.length()+1];
+        for(int []arr: dp){
+            Arrays.fill(arr,-1);
         }
-        return solve(word1,word2,0,0,dp);
+        return solve(0,0,word1,word2);    
     }
-    int solve(String s1, String s2, int i, int j, int[][]dp){
-        if(i==s1.length() && j==s2.length()){
-            return 0;
-        }
-        if(i==s1.length() || j==s2.length()){
-            return Math.max(s1.length()-i , s2.length()-j);
-        }
+
+    int solve(int i, int j, String s, String t){
+        if(i==s.length() && j==t.length()) return 0;
+
+        if(i==s.length() || j==t.length()) return s.length()-i + t.length()-j;
+
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
-        if(s1.charAt(i)==s2.charAt(j)){
-            return solve(s1,s2,i+1,j+1,dp);
+        if(s.charAt(i)==t.charAt(j)){
+            return dp[i][j]=solve(i+1,j+1,s,t);
         }
-        int sk1=1+solve(s1,s2,i+1,j,dp);
-        int sk2=1+solve(s1,s2,i,j+1,dp);
-        return dp[i][j]= Math.min(sk1,sk2);        
+
+        return dp[i][j]=Math.min(1+solve(i+1,j,s,t),1+solve(i,j+1,s,t));
     }
+
 }
