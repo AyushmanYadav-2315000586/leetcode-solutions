@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0788-rotated-digits) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -902,5 +906,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
