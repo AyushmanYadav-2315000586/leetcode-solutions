@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -896,4 +899,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
