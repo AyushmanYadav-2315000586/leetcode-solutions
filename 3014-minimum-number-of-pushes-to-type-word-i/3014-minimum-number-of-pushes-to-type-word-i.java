@@ -1,17 +1,11 @@
 class Solution {
     public int minimumPushes(String word) {
-        HashMap<Integer,Integer> map= new HashMap<>();
-        int as=2;
-        int res=0;
-        for(char ch: word.toCharArray()){
-            if(as>9){
-                as=2;
-            }
+        int p=0;
 
-            map.put(as,map.getOrDefault(as,0)+1);
-            res+=map.get(as);
-            as++;
+        for(int i=0; i<word.length(); i++){
+            p+=(i/8)+1;
         }
-        return res;
+
+        return p;
     }
 }
