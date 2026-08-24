@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2615-sum-of-distances](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/2615-sum-of-distances) |
@@ -932,12 +936,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/AyushmanYadav-2315000586/leetcode-solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
